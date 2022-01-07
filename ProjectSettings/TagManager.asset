@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - hittable
+  - mob
+  - breakable
+  - Wall
+  - Floor
+  - object
+  - powerup
+  - room
+  - playerhitbox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - enemy
+  - enemyProjectile
+  - Player
+  - Player Projectile
+  - ground
+  - wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2446902741
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: midground
+    uniqueID: 1571386517
+    locked: 0
+  - name: enemy
+    uniqueID: 2634774711
+    locked: 0
+  - name: player
+    uniqueID: 1945426365
+    locked: 0
+  - name: forground
+    uniqueID: 1784795309
+    locked: 0
